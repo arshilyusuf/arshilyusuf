@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm Arshil
 🔭 I’m currently diving into Machine Learning and Artificial Intelligence<br>🌱 I’m currently learning Django<br>💬 Ask me about frontend & backend development and networks.<br>⚡ Fun fact: I am a passionate musician. I play the guitar, piano and bass, and sing. I also produce music.
 
 
