@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Arshil Yusuf</h1>
 <h3 align="center">A Full-Stack Developer from Greater Noida, studying at National Institute of Technology Raipur</h3>
 
