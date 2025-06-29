@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Arshil Yusuf</h1>
-<h3 align="center">A Full-Stack Developer from Greater Noida, studying in National Institute of Technology Raipur</h3>
+<h3 align="center">A Full-Stack Developer from Greater Noida, studying at National Institute of Technology Raipur</h3>
 
 - 🌱 I’m currently learning **Django Framework**
 
 - 📫 How to reach me **arshilyusuf@gmail.com**
 
-- ⚡ Fun fact **I am a passionate musician. I play the Guitar, Piano and the Bass. I also produce music.**
+- ⚡ Fun fact **I am a passionate musician. I sing, play the Guitar, Piano and the Bass. I also produce music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
