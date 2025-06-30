@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arshil</h1>
 <h3 align="center">A Full-Stack Developer from Greater Noida, studying at National Institute of Technology Raipur</h3>
 
-- 🌱 I’m currently learning **Django Framework**
+- 🌱 I’m currently learning **Django Framework** and diving into **Machine Learning**
 
 - 📫 How to reach me: **arshilyusuf@gmail.com**
 
