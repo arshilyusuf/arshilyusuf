@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arshil</h1>
-<h3 align="center">A Full-Stack Developer from Greater Noida, studying at National Institute of Technology Raipur</h3>
+<h3 align="center">A Full-Stack Developer from Greater Noida, studying at National Institute of Technology Raipur with BTech in Computer Science and Engineering</h3>
 
 - 🌱 I’m currently learning **Django Framework** and diving into **Machine Learning**
 
 - 📫 How to reach me: **arshilyusuf@gmail.com**
-
 - ⚡ Fun fact **I am a passionate musician. I sing, play the Guitar, Piano and Bass. I also produce music.**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center" style ={{display:'flex', gap:'1rem'}}>
 <a href="https://twitter.com/arrshil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arrshil" height="30" width="40" /></a>
